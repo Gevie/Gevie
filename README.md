@@ -11,11 +11,11 @@ to focus on development as a speciality and leave design / ux to the professiona
 
 My main backend language throughout my career has been PHP.
 
-### ⚡ Employment
+## ⚡ Employment
 
 I'm currently seeking full time or contract employment.
 
-### 🔭 Current Projects
+## 🔭 Current Projects
 
 I'm working on a few public python projects as a way of learning the language for fun.
 

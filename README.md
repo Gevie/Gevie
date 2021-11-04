@@ -13,13 +13,18 @@ My main backend language throughout my career has been PHP.
 
 ## ⚡ Employment
 
-I'm currently seeking full time or contract employment.
+I'm passively seeking full time or contract employment.
+
+My ideal role for a full time position would be technical lead or similar, introducing and improving the way a team works
+with an emphasis on development processes and standards, client focus and business infrastructure.
+
+If you would like to learn more please contact me via [LinkedIn](https://www.linkedin.com/in/stephen-s-a7613577/)
 
 ## 🔭 Current Projects
 
-I'm working on a few public python projects as a way of learning the language for fun.
+I'm working on a couple public python projects as a way of learning the language for fun.
 
-**AnnounceBotTwitch**
+**AnnounceTwitchBot**
 
 A discord bot which allows those with permission to assign (CRUD) a twitch channel to server members, the assignment
 may also include any number of server roles. When the bot detects the twitch channel has started to stream, it will tag 
